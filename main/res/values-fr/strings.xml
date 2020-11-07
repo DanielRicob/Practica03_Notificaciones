@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mes notifications</string>
+    <string name="mensaje01">Message (proposer)</string>
+    <string name="boton01">Toast01</string>
+</resources>
